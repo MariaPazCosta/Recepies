@@ -1,0 +1,22 @@
+body{
+    background-color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.title{
+    background-color: antiquewhite;
+    text-align: center;
+   
+}
+
+.left, li{
+    text-align: left;
+
+}
+
+#important{
+    font-size: 40px;
+    font-weight: 700;
+    color: darkred;
+}
