@@ -1,19 +1,44 @@
 body{
-    background-color: bisque;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
-    text-align: center; 
+    padding: 8px;
+    background-color: beige;
 }
-
+#intro{
+    font-weight: 800;
+    text-align: center;
+}
 h1{
-    
+    text-align: center;
     background-color: brown;
     color: white;
     font-size: 45px;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.card{
+    display: block;
+    text-align: center;
+    background-color: peachpuff;
+    margin: 20px 20%;
+    border-radius: 10px;
+    border-style: double;
+    border-color: brown;
+    padding: 5px 10px;
+    font-size: 15px;
+
 }
 
 a{
-    color: darkred;
-    font-weight: 800;
+    color: brown;
+    font-size: 25px;
+    text-decoration: none;
+
+}
+
+img{
+    width: 30%;
+    height: auto;
 }
 
